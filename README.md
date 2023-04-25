@@ -73,6 +73,7 @@ To run this game on your local machine, clone the repository and open the index.
 - 2 deadends
 - 1 solution
 - On refreshing, user starts from the same step.
+- Optimized for mobile devices
 
 ##
 
